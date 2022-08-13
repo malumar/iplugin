@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.malumar.iplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.malumar.iplugin.MyBundle
 
 class MyApplicationService {
 
